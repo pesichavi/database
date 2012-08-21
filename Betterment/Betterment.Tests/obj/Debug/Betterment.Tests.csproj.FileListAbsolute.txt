@@ -1,0 +1,16 @@
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.dll.config
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.dll
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Betterment.Tests.pdb
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Betterment.dll
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Betterment.pdb
+M:\chavi\Betterment\Betterment.Tests\obj\Debug\ResolveAssemblyReference.cache
+M:\chavi\Betterment\Betterment.Tests\obj\Debug\Betterment.Tests.dll
+M:\chavi\Betterment\Betterment.Tests\obj\Debug\Betterment.Tests.pdb
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Repository.dll
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Entities.dll
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Data.dll
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\EntityFramework.dll
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Repository.pdb
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Entities.pdb
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\Data.pdb
+M:\chavi\Betterment\Betterment.Tests\bin\Debug\EntityFramework.xml

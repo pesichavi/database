@@ -1,0 +1,13 @@
+M:\chavi\Betterment\Betterment\bin\Betterment.dll
+M:\chavi\Betterment\Betterment\bin\Betterment.pdb
+M:\chavi\Betterment\Betterment\bin\EntityFramework.dll
+M:\chavi\Betterment\Betterment\bin\EntityFramework.xml
+M:\chavi\Betterment\Betterment\obj\Debug\ResolveAssemblyReference.cache
+M:\chavi\Betterment\Betterment\obj\Debug\Betterment.dll
+M:\chavi\Betterment\Betterment\obj\Debug\Betterment.pdb
+M:\chavi\Betterment\Betterment\bin\Entities.dll
+M:\chavi\Betterment\Betterment\bin\Repository.dll
+M:\chavi\Betterment\Betterment\bin\Data.dll
+M:\chavi\Betterment\Betterment\bin\Entities.pdb
+M:\chavi\Betterment\Betterment\bin\Repository.pdb
+M:\chavi\Betterment\Betterment\bin\Data.pdb

@@ -9,6 +9,8 @@ namespace Entities
      [Table("T_DOMAIN_USERS")]
    public class DomainUsers:BaseEntity
     {
+        [Key]
+       public int DomainUserID { get; set; }
        public string UserID { get; set; }
        public Domains DomainID { get; set; }
        public bool Active { get; set; }

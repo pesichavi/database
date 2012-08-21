@@ -49,6 +49,7 @@
     <Compile Include="BaseEntity.cs" />
     <Compile Include="DomainProp.cs" />
     <Compile Include="DomainPropDft.cs" />
+    <Compile Include="DomainUsersProp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Domains.cs" />
     <Compile Include="DomainUsers.cs" />

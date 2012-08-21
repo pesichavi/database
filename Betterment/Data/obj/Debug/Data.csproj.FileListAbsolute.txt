@@ -1,0 +1,9 @@
+M:\chavi\Betterment\Data\bin\Debug\Data.dll
+M:\chavi\Betterment\Data\bin\Debug\Data.pdb
+M:\chavi\Betterment\Data\bin\Debug\EntityFramework.dll
+M:\chavi\Betterment\Data\bin\Debug\EntityFramework.xml
+M:\chavi\Betterment\Data\obj\Debug\ResolveAssemblyReference.cache
+M:\chavi\Betterment\Data\obj\Debug\Data.dll
+M:\chavi\Betterment\Data\obj\Debug\Data.pdb
+M:\chavi\Betterment\Data\bin\Debug\Entities.dll
+M:\chavi\Betterment\Data\bin\Debug\Entities.pdb

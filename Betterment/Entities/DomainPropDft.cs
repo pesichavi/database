@@ -9,11 +9,13 @@ namespace Entities
      [Table("T_DOMAIN_PROP_DFT")]
     public class DomainPropDft : BaseEntity
     {
+         [Key]
+         public int Id { get; set; }
+         [MaxLength(10)]
        	public string  PropName { get; set; }
 	     [MaxLength(10)]
        	public string PropDesc { get; set; }
-	     [MaxLength(10)]
-       	public string PeopVal { get; set; }	
+       	public string PropVal { get; set; }	
        	public bool PropUser { get; set; }	
        	public bool PropActive { get; set; }	
        	public bool DefaultActive { get; set; }	

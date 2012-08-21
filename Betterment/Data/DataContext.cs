@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Data.Entity;
+using Entities;
 
 namespace Data
 {
@@ -13,6 +14,10 @@ namespace Data
         {
 
         }
-
+        public DbSet<Domains> Domains { get; set; }
+        public DbSet<DomainProp> DomainProps { get; set; }
+        public DbSet<DomainPropDft> DomainPropDfts { get; set; }
+        public DbSet<DomainUsers> DomainUsers { get; set; }
+        public DbSet<DomainUsersProp> DomainUsersProps { get; set; }
     }
 }
